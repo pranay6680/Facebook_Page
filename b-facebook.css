@@ -1,0 +1,149 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+body {
+    background : whitesmoke;
+}
+
+.col-md-7 {
+    background :none;
+    margin-right : 0;
+}
+
+.col-md-7 img {
+    width : 301px;
+    height : 106;
+    margin-left : 73px;
+    margin-bottom : -9px;
+    margin-top : 37px;
+    
+}
+.col-md-7 h2{
+    font-weight : normal;
+    font-size : 28px;
+    width : auto;
+    font-family : Arial, Helvetica, sans-serif;
+    margin-left : 101px;
+    
+    
+}
+
+
+.loginform {
+    background : white ;
+    width : 396px;
+    border-radius : 7px;
+    
+}
+
+
+
+
+.col-md-5 form input{
+    width : 364px;
+   
+}
+.col-md-5 form input {
+    height : 45px;
+}
+
+.loginform .hyperlink a {
+   
+    margin-left : 113px;
+    
+}
+.row {
+    margin-top : 210px;
+}
+.loginform {
+    padding:15px;
+}
+.loginform .inputone input {
+    
+    border : solid 1px grey;
+   outline : none;
+   border-radius : 4px;
+   padding : 6px;
+   font-size : 17px;
+    
+    
+}
+.loginform .inputtwo input {
+    
+    border : solid 1px grey;
+   outline : none;
+   border-radius : 4px;
+   padding : 6px;
+   font-size : 17px;
+    
+}
+.loginform .inputone {
+    padding : 6px 0 6px 0;
+}
+
+.loginform .inputtwo {
+    padding : 6px 0 6px 0;
+    margin-bottom : 6px;
+}
+.loginform form {
+    margin-bottom : 8px;
+}
+
+.btn-success {
+    width : 200px;
+    margin-left  : 90px;
+    margin-bottom : 12px;
+    margin-top : 5px;
+    padding : 8px 0 9px 0;
+}
+.btn-primary {
+    width : 364px;
+    margin-bottom : 3px;
+}
+ 
+hr {
+    margin-top : 17px;
+}
+p {
+    margin-left : 710px;
+    padding-top : 26px;
+}
+p>a {
+    color : black;
+    text-decoration : none;
+    font-weight : bold;
+}
+
+p>a:hover {
+    
+    color : black;
+}
+
+.bottom p a {
+   font-weight : normal;
+   color  : grey;
+   font-size: 12px;
+   font-family : inherit;
+   padding-left : 20px;
+  
+   
+}
+.bottom  { 
+    background : white;
+    height : 173px;
+}
+.bottom p {
+    margin-left : 263px;
+    width : 1000px;
+    
+}
+
+.foot {
+    font-weight : normal;
+    font-size : 12px;
+    color : grey;
+    padding-left : 20px;
+    
+}
